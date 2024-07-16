@@ -69,9 +69,15 @@ public class AttendanceSystemTest {
 
       
 ```
+## JAVA OUTPUT
+![maven 1](https://github.com/subhash-negi/devops-java-maven-testing-project/blob/main/images/maven%201.jpg)
+![maven 2](https://github.com/subhash-negi/devops-java-maven-testing-project/blob/main/images/maven%202.jpg)
 
-![Screenshot 2024-07-15 175748](https://github.com/subhash-negi/calculator-web-app-/blob/main/images/Screenshot%202024-07-15%20175748.jpg)
-![Screenshot 2024-07-15 175841](https://github.com/subhash-negi/calculator-web-app-/blob/main/images/Screenshot%202024-07-15%20175841.jpg)
+
+## DEVOPS OUTPUT
+![maven 3](https://github.com/subhash-negi/devops-java-maven-testing-project/blob/main/images/maven%203.jpg)
+![maven4](https://github.com/subhash-negi/devops-java-maven-testing-project/blob/main/images/maven4.jpg)
+![maven 5](https://github.com/subhash-negi/devops-java-maven-testing-project/blob/main/images/maven%205.jpg)
 
 
 
